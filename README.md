@@ -1,2 +1,2 @@
-# CPRG-303-Lab2
- altesse-imena/CPRG-303-Lab-2
+# Lab Assignment 2: Layout Components
+CPRG-303 Lab Assignment 2: Layout Components
